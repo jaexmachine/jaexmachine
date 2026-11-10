@@ -1,112 +1,92 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · jaexmachine</sub></p>
-<h1>Jae</h1>
-<h2>AI Engineer/ Full Stack</h2>
-<p>ComSci Student.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Manila · Building at FEU Institute of Technology</sub></p>
-<p><a href="https://github.com/jaexmachine">GitHub</a> &nbsp;·&nbsp; <a href="https://jae-hyun-portfolio.vercel.app/">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/176825631?u=cce291d90337f2822ba7b6e93cfac65b63b39ba9&amp;v=4" width="180" alt="Jae GitHub avatar" />
-</td>
-</tr>
-</table>
+# Jae Hyun Tukushima
+
+### `> making sense of what’s next.`
+
+**AI · Data · Geospatial Systems**
+
+I’m a Computer Science student specializing in AI at FEU Institute of Technology. I turn complex data and technical ideas into clear tools, useful insight, and learning experiences people can share.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1C33?style=for-the-badge&logo=vercel&logoColor=F4EEDF)](https://jae-hyun-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1C33?style=for-the-badge&logo=linkedin&logoColor=F4EEDF)](https://www.linkedin.com/in/jae-hyun-tukushima/)
+[![Email](https://img.shields.io/badge/Email-E66B56?style=for-the-badge&logo=gmail&logoColor=0B1C33)](mailto:18jaehyun05@gmail.com)
+
+<br />
+
+*Curious about systems. Grounded in people.*
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · TypeScript · PHP</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>123 contributions · 29 active days</p></td>
-</tr>
-</table>
+## ⚡ What I do
 
-<p><sub>AI and Data.</sub></p>
+```js
+const jae = {
+  studying: "Computer Science · AI specialization · FEU Institute of Technology",
+  focus: ["AI & data", "Geospatial systems", "Practical automation"],
+  approach: "Understand the problem → build with care → make it useful",
+  basedIn: "Manila, Philippines",
+};
+```
 
-<h2>Proof at a glance</h2>
+## 🛰️ Selected work
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>123</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+### Predictive Coastal Subsidence Heatmap Modeling · `IN PROGRESS`
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=jaexmachine&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176825631%3Fu%3Dcce291d90337f2822ba7b6e93cfac65b63b39ba9%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=jaexmachine&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176825631%3Fu%3Dcce291d90337f2822ba7b6e93cfac65b63b39ba9%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Jae GitHub proof metrics" />
-</picture>
-</p>
+Lead researcher on a project mapping land subsidence across Metro Manila’s CAMANAVA corridor and exploring how patterns may change over time. The work brings together **ConvLSTM**, **Random Forest**, **SHAP**, and geospatial data. Results are still in progress.
 
-<h2>Selected work</h2>
+[Explore the research project ↗](https://github.com/jaexmachine/geoai-subsidence-forecaster)
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=jaexmachine&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176825631%3Fu%3Dcce291d90337f2822ba7b6e93cfac65b63b39ba9%26v%3D4&repos=jaexmachine%2Fdeallens-marketplace-assistant%2Cjaexmachine%2Frecall-loop&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=jaexmachine&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176825631%3Fu%3Dcce291d90337f2822ba7b6e93cfac65b63b39ba9%26v%3D4&repos=jaexmachine%2Fdeallens-marketplace-assistant%2Cjaexmachine%2Frecall-loop&v=recruiter-projects-1&mode=dark" width="100%" alt="Jae selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/jaexmachine/deallens-marketplace-assistant">deallens-marketplace-assistant</a></h3>
-<p>Local Chrome extension for evaluating Facebook Marketplace electronics deals</p>
-<p><sub>JavaScript · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/jaexmachine/deallens-marketplace-assistant">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+### Marketplace Intelligence
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/jaexmachine/recall-loop">recall-loop</a></h3><p>Recall Loop is a web-first study coach that turns your notes and formative questions into Cram, Steady, or Deep review sessions, with source-linked pr</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
-</tr>
-</table>
+A local Chrome extension that analyzes Facebook Marketplace electronics listings, estimates margins from comparable asking prices, and surfaces potential defects and risks.
 
-<h2>Technical toolkit</h2>
+[View the project ↗](https://github.com/jaexmachine/deallens-marketplace-assistant)
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=jaexmachine&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176825631%3Fu%3Dcce291d90337f2822ba7b6e93cfac65b63b39ba9%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=jaexmachine&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176825631%3Fu%3Dcce291d90337f2822ba7b6e93cfac65b63b39ba9%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Jae technology stack" />
-</picture>
-</p>
+### Canvas LMS Scraper
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>85% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>10% of public code</sub></td>
-<td width="20%" align="center"><strong>PHP</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>1% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
-</tr>
-</table>
+A browser automation project that turns assessment content into structured, searchable data for analysis.
 
-<h2>Consistency signal</h2>
+[See the portfolio ↗](https://jae-hyun-portfolio.vercel.app/#projects)
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=jaexmachine&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176825631%3Fu%3Dcce291d90337f2822ba7b6e93cfac65b63b39ba9%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=jaexmachine&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176825631%3Fu%3Dcce291d90337f2822ba7b6e93cfac65b63b39ba9%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Jae contribution activity" />
-</picture>
-</p>
+## 🛠️ Tools I reach for
 
-<hr />
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/jaexmachine">GitHub</a><br /><a href="https://jae-hyun-portfolio.vercel.app/">Website</a></td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-0B1C33?style=flat-square&logo=python&logoColor=F4EEDF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0B1C33?style=flat-square&logo=pytorch&logoColor=E66B56)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0B1C33?style=flat-square&logo=scikitlearn&logoColor=F4EEDF)
+![Pandas](https://img.shields.io/badge/Pandas-0B1C33?style=flat-square&logo=pandas&logoColor=F4EEDF)
+![SQL](https://img.shields.io/badge/SQL-0B1C33?style=flat-square&logo=postgresql&logoColor=F4EEDF)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0B1C33?style=flat-square&logo=python&logoColor=E66B56)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0B1C33?style=flat-square&logo=matplotlib&logoColor=F4EEDF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0B1C33?style=flat-square&logo=jupyter&logoColor=E66B56)
+![MATLAB](https://img.shields.io/badge/MATLAB-0B1C33?style=flat-square&logo=mathworks&logoColor=F4EEDF)
+![Azure](https://img.shields.io/badge/Azure-0B1C33?style=flat-square&logo=microsoftazure&logoColor=F4EEDF)
+![Git](https://img.shields.io/badge/Git-0B1C33?style=flat-square&logo=git&logoColor=E66B56)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1C33?style=flat-square&logo=githubactions&logoColor=F4EEDF)
 
-<p align="center"><sub>Jae · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
+
+## ✳️ Learning and leadership
+
+- **Associate Director for Academics, FEU Tech ACM Student Chapter** — led review sessions and AI workshops, helped run Developers Week and a university hackathon, and advised 40+ teams.
+- **Junior Officer for Academics** — organized peer-led reviews and hands-on Data Science workshops for 40+ students.
+- **FEU President’s Scholarship** — 100% tuition coverage; **Rank 1 Top Performing Student**, A.Y. 2024–2025.
+- **DOST–SEI Scholar** — selected among 10,756 from 89,510 applicants.
+
+---
+
+<div align="center">
+
+### Have a useful problem to solve?
+
+I’m open to AI and data opportunities, thoughtful collaborations, and projects that help people make better decisions.
+
+[Portfolio](https://jae-hyun-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jae-hyun-tukushima/) · [Email Jae](mailto:18jaehyun05@gmail.com)
+
+<sub>Jae Hyun Tukushima · Built with curiosity and care · Manila, Philippines</sub>
+
+</div>
