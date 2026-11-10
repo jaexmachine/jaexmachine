@@ -2,7 +2,7 @@
 
 <table width="100%">
 <tr>
-<td width="64%" valign="middle">
+<td width="100%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · jaexmachine</sub></p>
 <h1>Jae</h1>
 <h2>AI Engineer/ Full Stack</h2>
