@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · jaexmachine</sub></p>
 <h1>Jae</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>AI Engineer/ Full Stack</h2>
 <p>ComSci Student.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Manila · Building at FEU Institute of Technology</sub></p>
@@ -23,12 +23,11 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · TypeScript · PHP</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 2 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>123 contributions · 29 active days</p></td>
 </tr>
 </table>
 
-<p><sub>ComSci Student.</sub></p>
+<p><sub>AI and Data.</sub></p>
 
 <h2>Proof at a glance</h2>
 
